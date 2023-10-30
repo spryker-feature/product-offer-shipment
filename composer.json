@@ -7,10 +7,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker/product-offer-shipment-type": "^0.2.0",
-        "spryker/product-offer-shipment-type-data-import": "^0.2.0",
-        "spryker/product-offer-shipment-type-gui": "^0.1.0",
-        "spryker/product-offer-shipment-type-storage": "^0.4.0"
+        "spryker/product-offer-shipment-type": "^0.3.0",
+        "spryker/product-offer-shipment-type-data-import": "^0.3.0",
+        "spryker/product-offer-shipment-type-gui": "^0.2.0",
+        "spryker/product-offer-shipment-type-storage": "^0.5.0"
     },
     "extra": {
         "branch-alias": {
