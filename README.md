@@ -1,6 +1,6 @@
 # Spryker Feature: Product Offer Shipment
 
-
+This feature establishes a link between the product offers and shipment types.
 
 ## Installation
 
