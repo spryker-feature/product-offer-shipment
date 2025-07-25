@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/product-offer-shipment-type": "^1.1.0",
+        "spryker/product-offer-shipment-type": "^1.3.0",
         "spryker/product-offer-shipment-type-data-import": "^0.4.0",
         "spryker/product-offer-shipment-type-gui": "^1.0.0",
         "spryker/product-offer-shipment-type-storage": "^1.1.0"
